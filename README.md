@@ -14,13 +14,13 @@ This command-line application allows you to fetch information about GitHub users
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/github-user-fetcher.git
+   git clone git@github.com:rcardosopereira/LovelyStay.git
    ```
 
 2. **Install dependencies:**
 
    ```bash
-   cd github-user-fetcher
+   cd LovelyStay
    npm install
    ```
 
