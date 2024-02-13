@@ -1,4 +1,4 @@
-# GitHub User Fetcher
+# GitHub Challenge
 
 This command-line application allows you to fetch information about GitHub users and store it in a PostgreSQL database.
 
